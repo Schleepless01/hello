@@ -1,5 +1,5 @@
 /**
- * Author: Pete Tungtweegait ;Jaron David Nallathambi
+ * Author: Pete Tungtweegait 
  * Date: 2019/08/29
  *
  * A simple hello world program in C
